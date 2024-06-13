@@ -1,0 +1,37 @@
+{
+    "consultant": {
+      "ID": "Unique ID of the consultant",
+      "name": "Name of the consultant",
+      "skills": ["List of consultant's skills"],
+      "experience": "Professional experience of the consultant",
+      "specialization": "Specialization or expertise domain of the consultant",
+      "average_rating": "Average rating given by users",
+      "number_of_reviews": "Total number of reviews received by the consultant",
+      "rates": "Consultant's rates for services",
+      "location": "Location where the consultant operates"
+    },
+    "freelance": {
+      "ID": "Unique ID of the freelance",
+      "name": "Name of the freelance",
+      "skills": ["List of freelance's skills"],
+      "industry": "Industry in which the freelance operates",
+      "portfolio": "Examples of freelance's previous work",
+      "average_rating": "Average rating given by users",
+      "number_of_reviews": "Total number of reviews received by the freelance",
+      "rates": "Freelance's rates for services",
+      "location": "Location where the freelance operates"
+    },
+    "startup": {
+      "ID": "Unique ID of the startup",
+      "name": "Name of the startup",
+      "industry": "Industry of the startup",
+      "description": "Brief description of the startup and its activities",
+      "founders": ["Names of the founders of the startup"],
+      "founding_date": "Date when the startup was founded",
+      "website": "URL of the startup's website",
+      "average_rating": "Average rating given by users",
+      "number_of_reviews": "Total number of reviews received by the startup",
+      "location": "Location where the startup is based"
+    }
+  }
+  
